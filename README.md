@@ -25,6 +25,8 @@ All relevant code is in the vertex shader.
 
 If you want to grab the C# version, have a look at the Master.cs, MobieusTrasnform(Vector3 pos). 
 
+There are more axis along the 4D sphere you can rotate the mesh at. You can add those yourself for more control. 
+
 ---
 
 The code is based on the [work](https://gist.github.com/Dan-Piker/f7d790b3967d41bff8b0291f4cf7bd9e) from [Daniel Piker](https://github.com/Dan-Piker). If you would like to have more info about this type of transformation, this video is a [fantastic](https://spacesymmetrystructure.wordpress.com/2008/12/11/4-dimensional-rotations/) visualisation and Daniel has written about his code [here](https://spacesymmetrystructure.wordpress.com/2008/12/11/4-dimensional-rotations/).  
