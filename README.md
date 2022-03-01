@@ -7,7 +7,7 @@ This repo contains shader code for 4d Moebius transformation of 3d space both in
 
 
 Open the Sample Scene and press play. You can fly around as you do in editor by clicking right click mouse and WSAD, press shift to accelerate. You can press T to rotate the hyper Sphere and G to rotate in the other direction. 
-This baisicly means with T and G you can increase and decrease the effect strenght. Your control center is in Manager Gameobject and Master script. There you can set some balanacing parameters. The most interesting is probably Camera Centeric. 
+This basically means with T and G you can increase and decrease the effect strenght. Your control center is in Manager Gameobject and Master script. There you can set some balancing parameters. The most interesting is probably Camera Centeric. 
 
 Camera Centeric looks like this:
 
@@ -23,7 +23,7 @@ Where as non Camera centeric looks like this:
 If you just want to have a look at the shader, you find the file in Assets/Shaders/Resources/Moebius3D.shader. 
 All relevant code is in the vertex shader. 
 
-If you want to grab the C# version, have a look at the Master.cs, MobieusTrasnform(Vector3 pos). 
+If you want to grab the C# version, have a look at the Master.cs, MoebiusTrasnform(Vector3 pos). 
 
 There are more axis along the 4D sphere you can rotate the mesh at. You can add those yourself for more control. 
 
