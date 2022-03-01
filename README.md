@@ -23,7 +23,7 @@ Where as non Camera centeric looks like this:
 If you just want to have a look at the shader, you find the file in Assets/Shaders/Resources/Moebius3D.shader. 
 All relevant code is in the vertex shader. 
 
-If you want to grab the C# version, have a look at the Master.cs, MoebiusTrasnform(Vector3 pos). 
+If you want to grab the C# version, have a look at the Master.cs, MoebiusTransform(Vector3 pos). 
 
 There are more axis along the 4D sphere you can rotate the mesh at. You can add those yourself for more control. 
 
